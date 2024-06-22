@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">game</string>
+    <string name="stonesting">Камень</string>
+    <string name="paperstring">Бумага</string>
+    <string name="scissorsstring">Ножницы</string>
+    <string name="spokestring">Спок</string>
+    <string name="lizardstring">Ящерица</string>
+    <string name="startstring">Старт</string>
+</resources>
